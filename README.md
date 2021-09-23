@@ -1,9 +1,9 @@
 <a href="https://github.com/jcs090218">
   <img align="center" width="49%" src="./header.svg" />
 </a>
-<a href="https://open.spotify.com/">
+<!-- <a href="https://open.spotify.com/">
   <img align="center" width="48%" src="https://novatorem.jcs090218.vercel.app/api/spotify" />
-</a>
+</a> -->
 <a href="https://github.com/jcs090218">
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
